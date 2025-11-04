@@ -1,0 +1,12 @@
+{
+  "name": "akshat-challenge",
+  "version": "1.0.0",
+  "description": "Backend API for Akshat Internship Challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "sudo node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
